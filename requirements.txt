@@ -1,0 +1,10 @@
+numpy
+torch
+matplotlib
+pandas
+scikit-image
+tensorflow
+gym
+python-sat
+termcolor
+seaborn
